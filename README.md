@@ -6,3 +6,5 @@ This code leverages vLLM and the OpenAI API wrapper for faster, asynchronous LLM
 
 The implementation leverages available GPU resources for local server endpoint hosting via the OpenAI API completion wrapper and vLLM's fast inference capability.
 The code offers a walkthrough of resource optimization methods, including optional parallel compute and multi-server hosting. 
+
+The idea is inspired by coroutines and async background tasks from prior experience. Proudly developed.
